@@ -1,3 +1,3 @@
 # Windows Bluetooth Server
 
-Simple server used to control media keys
+Simple windows bluetooth server used to control media keys (works in conjunction with android bluetooth remote)
