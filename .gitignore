@@ -1,0 +1,6 @@
+*.swp
+*.out
+*.aux
+*.log
+.idea
+target
